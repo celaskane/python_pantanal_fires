@@ -5,4 +5,4 @@ This project aims to perform a data analysis of Pantanal, a helpless bioma of Br
 The data was acquired from Instituto Nacional de Pesquisas Espaciais - INPE (available in: https://queimadas.dgi.inpe.br/queimadas/bdqueimadas/#).
 I've been developing that project as a undergraduate research at Faculdade de Tecnologia do Estado de São Paulo - FATEC.
 
-Leandro de Assis Madeira.
+Leandro de Assis Madeira
